@@ -6,6 +6,13 @@ class App extends Component {
     return (
       <div className="App">
         <button>Главная</button>
+        <button>Новости</button>
+        <button>Матчи</button>
+        <button>Клуб</button>
+        <button>Команда</button>
+        <button>История</button>
+        <button>Аналитика</button>        
+        <button>О сайте</button>
       </div>
     );
   }
