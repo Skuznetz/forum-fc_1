@@ -13,6 +13,7 @@ class App extends Component {
         <button>История</button>
         <button>Аналитика</button>        
         <button>О сайте</button>
+        <div>Статьи о клубе</div>
       </div>
     );
   }
